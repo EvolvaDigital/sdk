@@ -1,0 +1,14 @@
+{
+  "name": "evolva-digital",
+  "version": "0.1.0",
+  "description": "Decentralized self-improving agent network",
+  "main": "api/server.js",
+  "scripts": {
+    "dev": "node api/server.js",
+    "start": "node scripts/start.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.4.0"
+  }
+}
